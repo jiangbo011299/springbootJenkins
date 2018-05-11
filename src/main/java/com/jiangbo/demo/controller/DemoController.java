@@ -9,6 +9,6 @@ public class DemoController {
 
     @RequestMapping("/hello")
     public String hello() {
-        return "hello world ....111222333444555666777";
+        return "我是jenkins持续集成";
     }
 }
